@@ -1,7 +1,7 @@
 # Weather-Application
 This is a website for knowing current weather conditions across the globe 
 You can check out the website with the following url  
-[https://uday525.github.io/Weather-Application/](url)
+[https://uday525.github.io/Weather-Application/](https://uday525.github.io/Weather-Application/)
 
 ## Frontend Languages 
 * HTML
